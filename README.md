@@ -1,4 +1,4 @@
-<h1 >Hi, I'm Lui Kirtan DB 🙋‍♂️</h1> <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=luikdb&&theme=monokai" alt="luikdb" />
+<h1 >Hi, I'm Lui Kirtan DB 🙋‍♂️</h1> <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=luikdb&&theme=merko" alt="luikdb" />
 <h3 >A pre-final year Biomed Undergrad at NIT Rourkela</h3> 
 <p align="left"> <img src= "https://komarev.com/ghpvc/?username=luikdb&label=Profile%20views&color=0e75b6&style=flat" alt="luikdb" /> </p> 
 
